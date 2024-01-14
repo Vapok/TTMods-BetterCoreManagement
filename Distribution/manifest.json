@@ -1,0 +1,9 @@
+{
+  "name": "BetterCoreManagement",
+  "version_number": "1.0.3",
+  "website_url": "https://github.com/Vapok/TTMods-BetterCoreManagement",
+  "description": "Research Core Manager that allows virtual research cores to be added even if Core Composers are full. Multiplayer Support included.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

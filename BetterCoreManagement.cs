@@ -15,7 +15,7 @@ namespace BetterCoreManagement
     {
         private const string MyGUID = "com.vapok.BetterCoreManagement";
         private const string PluginName = "BetterCoreManagement";
-        private const string VersionString = "1.0.2";
+        private const string VersionString = "1.0.3";
 
         public static BetterCoreManagement Instance => _instance;
         public static ManualLogSource Log = new ManualLogSource(PluginName);

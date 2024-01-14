@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterCoreManagement", "BetterCoreManagement.csproj", "{9C073AFD-FB22-4339-ABA1-95FB38E2F3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		API|Any CPU = API|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C073AFD-FB22-4339-ABA1-95FB38E2F3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C073AFD-FB22-4339-ABA1-95FB38E2F3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C073AFD-FB22-4339-ABA1-95FB38E2F3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C073AFD-FB22-4339-ABA1-95FB38E2F3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C073AFD-FB22-4339-ABA1-95FB38E2F3EF}.API|Any CPU.ActiveCfg = API|Any CPU
+		{9C073AFD-FB22-4339-ABA1-95FB38E2F3EF}.API|Any CPU.Build.0 = API|Any CPU
+	EndGlobalSection
+EndGlobal
